@@ -8,3 +8,5 @@ Once done with everything the following interfaces will be available upon exectu
 
 <img src="images/graphic_gps.png" alt="alt text" width="150">
 <img src="images/graphic_imu.png" alt="alt text" width="150">
+
+All that can be changed here will be used by the sensors scripts directly in simulation. For the changes to be taken nto accoount you will have to press enter and to relaunch the simulation.
