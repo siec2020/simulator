@@ -5,4 +5,4 @@ The two ".exe" files ar all that you will really need to use. However before bei
 In the GPS and IMU files you wll be able to use the python scripts to plot the comportment of the sensors. 
 
 Once done with everything the following interfaces will be available upon exectuion of the .exe files : 
-<img src="images/graphic_gps.PNG" alt="alt text" width="500"> <img src="images/graphic_imu.PNG" alt="alt text" width="500">
+<img src="images/graphic_gps.png" alt="alt text" width="500"> <img src="images/graphic_imu.png" alt="alt text" width="500">
