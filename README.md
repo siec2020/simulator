@@ -3,5 +3,5 @@ This repo is used to share the necessary tools to use the LGSVL simulator. We pr
 
 In each subfiles you will find a README providing more instruction and thus being on the use of ROS or LGSVL as well as tutorials to complete installation and prerequisite of each components we used for the Simulator.
 
-<img src="images/simu_schema.PNG" alt="praph" width="500">
+<img src="images/simu_schema.png" alt="graph" width="500">
 
