@@ -3,7 +3,7 @@
 To establish the communication between the simulator and the Outside word we decided to use ROS as it comes with a bunch of functions allowing easier communication
 between the platforms.
 
-<img src="images/simu_schema.PNG" alt="alt text" width="500">
+<img src="images/simu_schema.png" alt="alt text" width="1100">
 
 As shown in the upper graph, the communicatio uses a ROS-websocket. Connecting the HMI and the Simulator will allows both of them to see the topic of its neighboor.
 
