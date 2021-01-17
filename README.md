@@ -5,7 +5,7 @@ In each subfiles, you will find a README providing more instruction and thus bei
 
 The following graph gives a global idea of the operating principle of the simulator:
 
-<img src="images/simu_schema.png" alt="graph" width="700">
+<img src="images/simu_schema.png" alt="graph" width="900">
 
 To make a sort of summary concerning the files available in this repository:
 1. simulateur_lgsvl-master: you will find a tutorial concerning the installation of the LGSVL simulator 
